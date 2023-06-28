@@ -1,0 +1,37 @@
+>>> x = 6
+
+>>> while x < 15:
+	print(x)
+	x += 1
+
+	
+6
+7
+8
+9
+10
+11
+12
+13
+14
+>>> x = 4
+
+>>> while x >= 0:
+	print("Hello" * x)
+	x -= 1
+
+	
+HelloHelloHelloHello
+HelloHelloHello
+HelloHello
+Hello
+>>> num = 5
+
+>>> while num >= 1:
+	print("*" * num)
+	num -= 2
+
+	
+*****
+***
+*
